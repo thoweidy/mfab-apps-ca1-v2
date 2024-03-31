@@ -1,0 +1,21 @@
+{
+  "name": "wip-delta_to_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "pg": "^8.8.0",
+    "smartsheet": "^3.0.0",
+    "uuid": "^9.0.0"
+  }
+}
