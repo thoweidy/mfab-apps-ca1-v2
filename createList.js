@@ -4,7 +4,6 @@ const sheetIds = require('./sheetIdsv2.json');
 
 const funcNames = [];
 
-
 // Loop through the array
 sheetIds.forEach((obj) => {
     if (!obj.sheetRealName.includes("Completed")) {
